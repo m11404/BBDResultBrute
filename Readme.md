@@ -1,6 +1,8 @@
 # What ?
 Simple Script which can be used to brute force to get results from Babu Banarasi Das University website. 
 
+It can also be used to get results even when site is slow during result time because of known facts.
+
 # How
 The script exploits following facts
 - Page doesn't has proper validation for Full Student Name and Full Mother's name.
